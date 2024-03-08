@@ -15,7 +15,7 @@ class Option
 	// Bool will use checkboxes
 	// Everything else will use a text
 
-	public var scrollSpeed:Float = 50; //Only works on int/float, defines how fast it scrolls per second while holding left/right
+	public var scrollSpeed:Float = 55; //Only works on int/float, defines how fast it scrolls per second while holding left/right
 	private var variable:String = null; //Variable from ClientPrefs.hx
 	public var defaultValue:Dynamic = null;
 
